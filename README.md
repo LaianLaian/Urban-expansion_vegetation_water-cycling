@@ -162,6 +162,3 @@ If you use this code, cite the accompanying paper once published and the third-p
 
 ---
 
-## License
-
-Add a `LICENSE` file consistent with your institution and co-authors; third-party geographic and climate datasets remain under their respective terms.
