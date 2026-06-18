@@ -162,3 +162,4 @@ If you use this code, cite the accompanying paper once published and the third-p
 
 ---
 
+Tested on: Windows 11  Python 3.10+
